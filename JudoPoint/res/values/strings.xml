@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">JudoPoint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_judo_point">JudoPoint</string>
+    <string name="atleta_azul">Atleta Azul</string>
+    <string name="atleta_branco">Atleta Branco</string>
+    <string name="servico_medico">+ +</string>
+    <string name="placar_0">0</string>
+
+</resources>
