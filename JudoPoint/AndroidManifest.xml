@@ -13,7 +13,9 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name=".JudoPoint"
-            android:label="@string/title_activity_judo_point" >
+            android:configChanges="orientation"
+            android:label="@string/title_activity_judo_point"
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
